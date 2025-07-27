@@ -1,0 +1,2 @@
+# StudienarbeitStatik_Modalanalyse
+Matlabprogramm zur Modalanalyse struktureller Systeme mit Testdaten
