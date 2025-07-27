@@ -64,19 +64,19 @@ Eine Bedienung der App ist über eine intuitive grafische Benutzeroberfläche (G
 
 Für die Nutzung der App werden vier CSV-Dateien benötigt:
 
-### 1. **Messdaten** (`measurement_data.csv`)
+### 1. **Messdaten** (`measurement_data_*.txt`)
 - Enthält Zeitreihen der gemessenen Beschleunigungen (oder anderer dynamischer Größen)
 - Aufbau: Jede Spalte entspricht einem Messkanal (z. B. Sensor X-Richtung), jede Zeile einem Zeitschritt
 
-### 2. **Sensorpositionen** (`sensor_positions.csv`)
+### 2. **Sensorpositionen** (`sensor_positions.txt`)
 - Enthält die räumlichen Koordinaten jedes Sensors
 - Format: `Sensor-ID, X, Y, Z`
 
-### 3. **Verbindungen zwischen Sensoren** (`sensor_connections.csv`)
+### 3. **Verbindungen zwischen Sensoren** (`sensor_connections.txt`)
 - Beschreibt die logische oder physische Vernetzung der Sensoren für die grafische Darstellung
 - Format: `Start-Sensor-ID, End-Sensor-ID`
 
-### 4. **Sensorzuordnung** (`sensor_mapping.csv`)
+### 4. **Sensorzuordnung** (`sensor_mapping.txt`)
 - Ordnet Messkanäle den Sensoren und Messrichtungen zu
 - Format: `Sensor-ID, Kanalnummer, Richtung (X/Y/Z)`
 
