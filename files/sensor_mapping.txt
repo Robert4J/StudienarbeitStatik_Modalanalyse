@@ -1,0 +1,18 @@
+(Sensor) (Knoten) (Richtung)
+1 2x 
+2 2z 
+3 2y 
+4 3x 
+5 3z 
+6 3y
+7 4x
+8 4z
+9 4y
+10 5x
+11 5z
+12 5y
+13 6x
+14 6z
+15 6y
+
+
