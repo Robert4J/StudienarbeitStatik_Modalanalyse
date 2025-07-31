@@ -62,7 +62,7 @@ Eine Bedienung der App ist über eine intuitive grafische Benutzeroberfläche (G
 
 ## 📂 Eingabedateien
 
-Für die Nutzung der App werden vier CSV-Dateien benötigt:
+Für die Nutzung der App werden vier txt-Dateien benötigt:
 
 ### 1. **Messdaten** (`measurement_data_*.txt`)
 - Enthält Zeitreihen der gemessenen Beschleunigungen (oder anderer dynamischer Größen)
